@@ -61,7 +61,7 @@ const Landing = () => {
 
         <div className="hidden md:block md:w-[30vw] h-[60vh] m-5">
           <img
-            src="/public/landing-image.png "
+            src="/landing-image.png "
             className="mix-blend-difference rounded-t-3xl"
             alt=""
           />
